@@ -4,7 +4,7 @@
 
 🌱 I have hands-on experience with a variety of programming languages and tools, including:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,kotlin,nodejs,npm,sql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,kotlin,nodejs,npm,docker)](https://skillicons.dev)
 
     HTML, CSS, JavaScript for frontend development
     Python, Kotlin for backend projects and mobile apps
