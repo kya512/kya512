@@ -1,6 +1,6 @@
 ## 🇫🇷
 
-**2nd Year BTS SIO Student**
+**👩‍💻 2nd Year BTS SIO Student**
 
 🔧 Passionate about web and software development, always eager to learn new technologies.
 
